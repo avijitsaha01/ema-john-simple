@@ -1,0 +1,18 @@
+.product{
+    display: flex;
+}
+.img-wraper img{
+    margin-right: 10px;
+}
+button{
+    background-color: orangered;
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    outline: none;
+    border:none;
+    cursor: pointer;
+}
+button:active{
+    background-color: crimson;
+}
